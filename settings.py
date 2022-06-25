@@ -1,5 +1,6 @@
 from os import environ
 
+#try the first try in setting.py
 
 SESSION_CONFIGS = [
     dict(
