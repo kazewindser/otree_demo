@@ -3,7 +3,7 @@ from otree.api import *
 
 
 doc = """
-This application provides a webpage instructing participants how to get paid.
+Life is just a bitch! so you need to know how to fuck!This application provides a webpage instructing participants how to get paid.
 Examples are given for the lab and Amazon Mechanical Turk (AMT).
 """
 
